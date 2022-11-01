@@ -23,36 +23,36 @@ Kalibrasyon modu, elimizde bulunan bardakların tanımlanması için kullanılı
 
 Kalibrasyon modu bir adet bardak tanıtmak istenirse aşağıdaki algoritmaya göre çalışır
 
-	1- Kalibrasyonu başlatmak için **I/O** butonuna 5 saniye basılı tutulur
-	2- Gösterge **0** değerini gösterir ve nokta yanıp sönmeye başlar
+	1- Kalibrasyonu başlatmak için I/O butonuna 5 saniye basılı tutulur
+	2- Gösterge 0 değerini gösterir ve nokta yanıp sönmeye başlar
 	3- İstenilen bardak, cihazın bardak bölmesine yerleştirilir
-	4- **Mode** butonu ile bardak seçimi yapılır (1, 2, 3, ..)
-	5- **Start** butonuna basılı tutularak bardak doldurulur
-	6- Bardak dolunca **Start** butonu bırakılır
-	7- **Start** butonu bırakıldığında seçilen bardak ve doldurulan miktar bilgileri otomatik olarak kaydedilir
-	8- Kalibrasyon modundan çıkmak için **I/O** butonuna 5 saniye bayunca basılır
+	4- Mode butonu ile bardak seçimi yapılır (1, 2, 3, ..)
+	5- Start butonuna basılı tutularak bardak doldurulur
+	6- Bardak dolunca Start butonu bırakılır
+	7- Start butonu bırakıldığında seçilen bardak ve doldurulan miktar bilgileri otomatik olarak kaydedilir
+	8- Kalibrasyon modundan çıkmak için I/O butonuna 5 saniye bayunca basılır
 	
 Eğer birden fazla bardak tanımı yapılmak istenirse yukarıdaki algoritma basamaklarından 1 nolu adım ile kalibrasyon işlemi başlatılır. 2-7 adımları her bir bardak için tekrarlanır. Tüm bardakların tanımlanma işlemi bittiğinde 8 nolu adım ile kalibrasyon işlemi sonlandırılır.
 
 Daha sonra tanımlı bir bardağın kalibrasyonu değiştirlmek istendiğinde veya yeni bir bardak tanımı yapılması gerektiğinde yukarıdaki algoritma tekrar uygulanabilir.
 
-** Dikkat edilmesi gereken nokta, eğer bardak tanımları yapılmış bir cihazda tek bir bardağın kalibrasyonu değiştirlmek istenirse, Mode butonu ile doğru bardak numarasının seçildiğinden emin olunması gerekmektedir.**
+> Dikkat edilmesi gereken nokta, eğer bardak tanımları yapılmış bir cihazda tek bir bardağın kalibrasyonu değiştirlmek istenirse, Mode butonu ile doğru bardak numarasının seçildiğinden emin olunması gerekmektedir.
 
 ### Otomatik Mod
 Kalibrasyonu yapılmış bir cihazda kullanıcı bardak seçimi yaparak tanımlı bardaklardan birini otomatik olarak doldurabilir.
 
 	1- İstenilen bardak, cihazın bardak bölmesine yerleştirilir
-	2- **Mode** butonu kullanılarak bardak seçimi yapılır
-	3- **Start** butonuna basılıp bırakıldığında tanımlı miktar kadar dolum yapılır
+	2- Mode butonu kullanılarak bardak seçimi yapılır
+	3- Start butonuna basılıp bırakıldığında tanımlı miktar kadar dolum yapılır
 	
 Her bir bardak için yukarıdaki adımlar tekrarlanır.
 
 ### Manuel Mod
-Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurulmak istendiğinde **Manuel** mod kullanılır.
+Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurulmak istendiğinde Manuel mod kullanılır.
 
 	1- Doldurulmak istenilen kap yerleştirilir.
-	2- **Start** butonuna basılı tutulur. Butona basıldıktan 5 saniye sonra manuel dolum başlar
-	3- Kullanıcı **Start** butonunu bıraktığında dolum işlemi sonlanır.
+	2- Start butonuna basılı tutulur. Butona basıldıktan 5 saniye sonra manuel dolum başlar
+	3- Kullanıcı Start butonunu bıraktığında dolum işlemi sonlanır.
 
 ## Kullanilacak Bilesenler
 ...
