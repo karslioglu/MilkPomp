@@ -6,11 +6,15 @@ Cihazın mekanik tasarımı, flow sensör ve pompa seçimi müşteri tarafından
 ## Sistemin Çalismasi
 Cihaz maksimum 9 farklı bardak bilgisini hafızada tutabilir. Kullanıcı bardak seçimi yaparak kayıtlı bardak tiplerinden birini otomatik olarak doldurabilir. Fakat istenirse kayıtlı olmayan farklı bir kabı da manuel olarak istediği miktarda doldurabilir.
 
-Cihaz üzerinde 3 adet buton ve 1 adet 7-Segment gösterge bulunmaktadır.
+Cihaz üzerinde 3 adet buton ve 1 adet 7-Segment gösterge bulunmaktadır. Ayrıca, bir pulse girişi ile **Akış Sensoru** girişi okunacak ve çıkış olarak bir role kontrol edilecektir.
 
 	* I/O (On/Off) butonu
 	* Start butonu
 	* Mode butonu
+	* Akış Sensoru (Encoder Pulse Input)
+	* Role
+	
+![Block Diagram](docs/images/block_diagram.png)
 	
 Aşağıda tarif edilen çalışma şekilleri bu 3 buton ve gösterge kullanılarak gerçeklenecektir.
 
