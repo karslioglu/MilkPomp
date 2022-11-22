@@ -59,4 +59,5 @@ Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurul
 	3- Kullanıcı Start butonunu bıraktığında dolum işlemi sonlanır.
 
 ## Kullanilacak Bilesenler
-...
+[flow sensor](https://www.hepsiburada.com/fluidotech-kahve-makinasi-pompasi-rotary-pompa-pirinc-govdeli-p-HBV000007SB1Q)
+[flow sensor kullanimi](https://how2electronics.com/iot-water-flow-meter-using-esp8266-water-flow-sensor/)
