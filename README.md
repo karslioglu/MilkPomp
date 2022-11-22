@@ -61,3 +61,4 @@ Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurul
 ## Kullanilacak Bilesenler
 [flow sensor](https://www.hepsiburada.com/fluidotech-kahve-makinasi-pompasi-rotary-pompa-pirinc-govdeli-p-HBV000007SB1Q)
 [flow sensor kullanimi](https://how2electronics.com/iot-water-flow-meter-using-esp8266-water-flow-sensor/)
+[ESP8266 with Water Flow Sensor](https://www.14core.com/wiring-esp8266-1212e-with-g12-liquid-water-flow-sensor-for-wireless-monitoring/)
