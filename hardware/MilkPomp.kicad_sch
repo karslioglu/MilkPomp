@@ -1623,6 +1623,12 @@
     (path "/1c1b2784-565f-48c2-9da5-fee1f1eccb68"
       (reference "#PWR041") (unit 1) (value "GND") (footprint "")
     )
+    (path "/d2553746-1356-462a-9e97-2ef518a10cb6/3f054666-55ad-410f-bbed-6b02df383562"
+      (reference "#PWR042") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d2553746-1356-462a-9e97-2ef518a10cb6/482d3632-2f92-42a7-837a-15ef0bee6e57"
+      (reference "#PWR043") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/eedf0fab-8e9c-4153-9644-990cc193b202/61d85e8d-3f38-4240-a3d5-2bfaf4c7ee3f"
       (reference "C1") (unit 1) (value "20pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -1730,6 +1736,9 @@
     )
     (path "/0b93710b-bce0-46bd-8475-42077d19082d"
       (reference "J5") (unit 1) (value "Conn_Display") (footprint "Connector_JST:JST_EH_B13B-EH-A_1x13_P2.50mm_Vertical")
+    )
+    (path "/d2553746-1356-462a-9e97-2ef518a10cb6/ef4b8fee-7501-4362-93a0-aca2ed51f97d"
+      (reference "J6") (unit 1) (value "PWR INPUT") (footprint "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal")
     )
     (path "/3d1b22e9-56b8-4e5b-a651-180afc20bec0/91ee0d6d-e0e0-49be-aea7-91bbd3fd0ae3"
       (reference "K1") (unit 1) (value "G5LE-1") (footprint "Relay_THT:Relay_SPDT_Omron-G5LE-1")
