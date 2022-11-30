@@ -213,7 +213,7 @@
 
   (footprint "Buzzer:XDCR_KPEG228" (layer "F.Cu")
     (tedit 636BBA3A) (tstamp 052edca8-d731-4aba-9393-2612af1d220e)
-    (at 93.1164 114.808 90)
+    (at 93.1672 113.9164 90)
     (property "MANUFACTURER" "Kingstate")
     (property "MAXIMUM_PACKAGE_HEIGHT" "9 mm")
     (property "PARTREV" "1.2")
@@ -856,7 +856,7 @@
 
   (footprint "MountingHole:MountingHole_2.5mm" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 38f641bb-203d-4a5a-9e09-ffef5fdf7502)
-    (at 33.1216 110.1344)
+    (at 33.1724 109.2428)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (property "Sheetfile" "File: MilkPomp.kicad_sch")
@@ -1855,7 +1855,7 @@
 
   (footprint "MountingHole:MountingHole_2.5mm" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 8870eed3-bb7c-4b5c-82c0-358672297177)
-    (at 115.9764 110.1344)
+    (at 116.0272 109.2428)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (property "Sheetfile" "File: MilkPomp.kicad_sch")
@@ -2801,7 +2801,7 @@
 
   (footprint "MountingHole:MountingHole_2.5mm" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp bcad5c00-81a3-40c6-a72c-795cddc0fbfa)
-    (at 76.2508 110.01)
+    (at 76.3016 109.1184)
     (descr "Mounting Hole 2.5mm, no annular")
     (tags "mounting hole 2.5mm no annular")
     (property "Sheetfile" "File: MilkPomp.kicad_sch")
